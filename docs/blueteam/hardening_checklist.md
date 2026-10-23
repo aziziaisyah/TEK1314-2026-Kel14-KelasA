@@ -1,6 +1,6 @@
 # Blue Team Hardening Checklist (Target Node - Kelompok 14)
 
-Daftar kontrol keamanan (*hardening*) minimum yang diterapkan pada Target Node (`192.168.17.5`). Screenshot bukti fisik disimpan di `docs/blueteam/evidence/`.
+Daftar kontrol keamanan (*hardening*) minimum yang diterapkan. Screenshot bukti fisik disimpan di `docs/blueteam/evidence/`.
 
 | Kategori | Kontrol Hardening  | Status | Bukti File di GitHub |
 | :--- | :--- | :--- | :--- |
