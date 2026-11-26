@@ -4,7 +4,7 @@ Daftar kontrol keamanan (*hardening*) minimum yang diterapkan. Screenshot bukti 
 
 | Kategori | Kontrol Hardening  | Status | Bukti File di GitHub |
 | :--- | :--- | :--- | :--- |
-| **A. Access & Auth** | Nonaktifkan login root langsung | **Sudah** | [Hydra](redteam/evidence/Hydra%20brute%20force%20SSH%20ke%20Target%20Node%20gagal.jpeg)<br>[Hydra + Ncrack](redteam/evidence/Hydra%20dan%20Ncrack%20brute%20force%20SSH%20ke%20Target%20Node%20gagal.jpeg) |
+| **A. Access & Auth** | Nonaktifkan login root langsung | **Sudah** | [After_nonaktifkan_login_root.jpg](evidence/After_nonaktifkan_login_root.jpg) |
 | **A. Access & Auth** | SSH key-based auth | **Sudah** | - |
 | **A. Access & Auth** | Rate-limit percobaan login | **Sudah** | - |
 | **B. Service & Surface** | Nonaktifkan service/port yang tidak dipakai | **Sudah** | - |
