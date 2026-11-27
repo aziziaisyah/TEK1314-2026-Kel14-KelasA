@@ -1,4 +1,4 @@
-<img width="743" height="442" alt="image" src="https://github.com/user-attachments/assets/eaac7c2c-9fc5-472e-acc1-59b4cd3e13a5" /># Purple Team Log - Kelompok 14
+# Purple Team Log - Kelompok 14
 
 Struktur mengikuti Bagian X panduan: setiap skenario serangan melalui 5 tahap (Serang/Baseline, Deteksi, Analisis, Respons/Mitigasi, Verifikasi). Sel berisi `-` berarti belum ada bukti/belum dikerjakan. Tautan relatif terhadap `docs/`.
 
