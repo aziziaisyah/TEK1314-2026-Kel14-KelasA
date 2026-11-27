@@ -1,7 +1,5 @@
 # Purple Team Log - Kelompok 14
 
-Struktur mengikuti Bagian X panduan: setiap skenario serangan melalui 5 tahap (Serang/Baseline, Deteksi, Analisis, Respons/Mitigasi, Verifikasi). Sel berisi `-` berarti belum ada bukti/belum dikerjakan. Tautan relatif terhadap `docs/`.
-
 ## Skenario 1 dari 3 - Web Application Attack
 
 - **Target:** Dasbor Web IoT (MUSH Field Console)
