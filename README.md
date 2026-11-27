@@ -8,3 +8,6 @@ Pada proyek ini, kelompok kami memilih skenario serangan **SSH Brute Force**. Sk
 * **Monitoring Node:** Security Onion. *Blue Team* akan memantau lonjakan paket SYN di jaringan serta menganalisis indikasi kompromi (IoC) dari tumpukan *log* `Failed Password` pada server target.
 
 Skenario ini dipilih karena memberikan visualisasi *traffic* serangan yang jelas untuk proses analisis pertahanan jaringan.
+
+
+[Video Demo PBL Kelompok 14](https://drive.google.com/file/d/12aVfdowIMZJkzP8WI2TKRFFZw1qhieQM/view?usp=sharing)
